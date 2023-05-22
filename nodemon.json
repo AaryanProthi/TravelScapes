@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "ap2106",
+    "DB_PASSWORD" : "aaryanmongodb",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyDCi0LmxODb7Ei97NCh2810W8WBOH2qCSw",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
